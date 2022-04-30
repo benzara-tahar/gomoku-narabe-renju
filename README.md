@@ -2,6 +2,8 @@
 
 Impletation of the famous Japanse game [Gomoku Narabe Renju](https://simple.wikipedia.org/wiki/Gomoku_Narabe_Renju) in C# | WPF
 
+![demo](/demo/demo.gif)
+
 # Features:
 
 - [x] ✔ Animation intro and transitions using WPF storyboard ✨
@@ -23,7 +25,3 @@ Impletation of the famous Japanse game [Gomoku Narabe Renju](https://simple.wiki
 
 - C# , WPF
   **no external dependencies**
-
-### Demo
-
-![demo](/demo/demo.gif)
