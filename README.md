@@ -1,6 +1,6 @@
 # Gomoku Narabe
 
-Impletation of the famous Japanse game [Gomoku Narabe Renju](https://simple.wikipedia.org/wiki/Gomoku_Narabe_Renju) in C# | WPF
+Implementation of the famous Japanse game [Gomoku Narabe Renju](https://simple.wikipedia.org/wiki/Gomoku_Narabe_Renju) in C# | WPF
 
 ![demo](/demo/demo.gif)
 
