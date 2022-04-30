@@ -1,14 +1,8 @@
 # Gomoku Narabe
 
 Impletation of the famous Japanse game [Gomoku Narabe Renju](https://simple.wikipedia.org/wiki/Gomoku_Narabe_Renju) in C# | WPF
-⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
-⚫⚪⚪⚪⚪⚫⚪⚪⚪⚪⚫
-⚫⚪⚫⚫⚫⚫⚪⚫⚫⚪⚫
-⚫⚪⚫⚪⚪⚫⚪⚫⚫⚪⚫
-⚫⚪⚫⚫⚪⚫⚪⚫⚫⚪⚫
-⚫⚪⚪⚪⚪⚫⚪⚪⚪⚪⚫
-⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫⚫
-features:
+
+# Features:
 
 - [x] ✔ Animation intro and transitions using WPF storyboard ✨
 - [x] ✔ Variable shuffle depth
