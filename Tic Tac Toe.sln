@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AIEngine", "src\AIEngine\AIEngine.csproj", "{F8979736-C0C2-4438-ABBF-06D0D12560F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject", "src\TestProject\TestProject.csproj", "{BA7ADD42-4DAE-47E7-8E14-00DB4C603D6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{B5B99BA9-222C-4576-BA1B-B03F7E0C4108}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Tic Tac Toe.vsmdi = Tic Tac Toe.vsmdi
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tic Tac Toe", "src\Tic Tac Toe\Tic Tac Toe.csproj", "{ADCFF18F-C423-4848-9B86-8ABADBC553B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8979736-C0C2-4438-ABBF-06D0D12560F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8979736-C0C2-4438-ABBF-06D0D12560F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8979736-C0C2-4438-ABBF-06D0D12560F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8979736-C0C2-4438-ABBF-06D0D12560F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA7ADD42-4DAE-47E7-8E14-00DB4C603D6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA7ADD42-4DAE-47E7-8E14-00DB4C603D6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA7ADD42-4DAE-47E7-8E14-00DB4C603D6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA7ADD42-4DAE-47E7-8E14-00DB4C603D6B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADCFF18F-C423-4848-9B86-8ABADBC553B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADCFF18F-C423-4848-9B86-8ABADBC553B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADCFF18F-C423-4848-9B86-8ABADBC553B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADCFF18F-C423-4848-9B86-8ABADBC553B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B3104AC-C7D1-490E-9953-FE114686DFE5}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Tic Tac Toe.vsmdi
+	EndGlobalSection
+EndGlobal
